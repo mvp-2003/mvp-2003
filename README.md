@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 # Introduction 📰
 
-Hello everyone 👋, Rishabh here with my open-source profile💻. I am currently pursuing a degree in CS (as of 2023, when this was written).
-A little info about me ->> I am originally from Kolkata📍. Passed my ICSE exam from St. Mary's orphanage 🏫 and Day School and ISC from Central Modern School 🏫. Currently(2023) I am a student at Narula Institute of Technology🎓.
+Hello everyone 👋, Rishabh here with my open-source profile💻. I am currently pursuing a degree in CS (as of 2023, when this was written).\
+A little info about me ->>
+- I am originally from Kolkata📍. 
+- Passed my ICSE exam from St. Mary's orphanage 🏫 and Day School and ISC from Central Modern School 🏫.
+-  Currently(2023) I am a student at Narula Institute of Technology🎓.
 
 
 ## Techical Skills 🧑‍💻
