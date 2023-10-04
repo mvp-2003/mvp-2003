@@ -52,4 +52,4 @@ A little info about me ⏬
 
 
 
-[![An image of @mvp2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mvp2003)](https://holopin.io/@mvp2003)
+[![Holopin Badge](https://holopin.me/mvp2003)](https://holopin.io/@mvp2003)
