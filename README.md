@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 Hello everyone 👋, Rishabh here with my open-source profile💻. I am currently pursuing a degree in CS (as of 2023, when this was written).\
 A little info about me ⏬
 - I am originally from Kolkata📍. 
-- Passed my ICSE exam from St. Mary's orphanage 🏫 and Day School and ISC from Central Modern School 🏫.
+- Passed my ICSE exam from St. Mary's Orphanage and Day School 🏫 and ISC from Central Modern School 🏫.
 -  Currently(2023) I am a student at Narula Institute of Technology🎓.
--  Major : Computer Science and Engineering
+-  Major : Computer Science and Engineering.
+-  I love Music 🎵.
+-  I love Computer Games [Epic Games ID](5c7a4c48e7174884848d6c3c11361d21)
 
 # Techical Skills 🧑‍💻
 
