@@ -23,7 +23,7 @@ A little info about me ⏬
 -  Currently(2023) I am a student at Narula Institute of Technology🎓.
 -  Major : Computer Science and Engineering.
 -  I love Music 🎵.
--  I love Computer Games [Epic Games ID](5c7a4c48e7174884848d6c3c11361d21)
+-  I love Computer Games.
 
 # Techical Skills 🧑‍💻
 
