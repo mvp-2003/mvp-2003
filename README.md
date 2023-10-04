@@ -49,7 +49,3 @@ A little info about me ⏬
 # Socials 🖇️
 
 1. [LinkedIn](https://www.linkedin.com/in/rishabh-das-64a336215/)
-
-
-
-[![Holopin Badge](https://holopin.me/mvp2003)](https://holopin.io/@mvp2003)
