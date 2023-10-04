@@ -49,4 +49,3 @@ A little info about me ⏬
 # Socials 🖇️
 
 1. [LinkedIn](https://www.linkedin.com/in/rishabh-das-64a336215/)
-2. [Email 📧](https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrhTrpCljXpFTkTwwhcDLmGJbxMfVZvCRvcnhTWjWxBxhpdNMzgClzcwFVnglGwSqQJmSq)
