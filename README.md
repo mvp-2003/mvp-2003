@@ -36,12 +36,13 @@ A little info about me ⏬
 2. Skills/Technologies :
    - Penetration Testing
    - Data Structures
-   - Backend Development
+   - Django
    - Database Management
    - Cloud
    - System Administration
 3. Domains :
    - Cyber Security
+   - Backend Software Development
    - Databases
    - Software Development
    - IT & Support
