@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![An image of @mvp2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mvp2003)](https://holopin.io/@mvp2003)
+
 # Introduction 📰
 
 Hello everyone 👋, Rishabh here with my open-source profile💻. I am currently pursuing a degree in CS (as of 2023, when this was written).\
