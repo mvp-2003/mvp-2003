@@ -45,7 +45,6 @@ A little info about me ⏬
    - System Administration
 3. Domains :
    - Cyber Security
-   - Backend Software Development
    - Databases
    - Software Development
    - IT & Support
