@@ -64,9 +64,9 @@ A little info about me ⏬
 <img src="https://github.com/mvp-2003/mvp-2003/assets/113057571/f1388e73-163b-4ba0-9199-e5c3a897ec43" width=5% height=5%>
 <img src="https://github.com/mvp-2003/mvp-2003/assets/113057571/82391a82-3c24-492d-a429-c3d0225aad62" width=5% height=5%>
 <img src="https://github.com/mvp-2003/mvp-2003/assets/113057571/970da38f-09a5-435f-840f-f0fb6447a6da" width=5% height=5%>
+<!--<img src="" width=5% height=5%>
 <img src="" width=5% height=5%>
 <img src="" width=5% height=5%>
 <img src="" width=5% height=5%>
 <img src="" width=5% height=5%>
-<img src="" width=5% height=5%>
-<img src="" width=5% height=5%>
+<img src="" width=5% height=5%>-->
