@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://profile-counter.glitch.me/mvp-2003/count.svg)
 
 ### 💥Welcome to my GitHub profile README 😇
 <!--
