@@ -37,6 +37,8 @@ A little info about me ⏬
    - Java
    - Python
    - C
+   - SQL
+   - Kotlin
 2. Skills/Technologies :
    - Penetration Testing
    - Data Structures
@@ -44,6 +46,7 @@ A little info about me ⏬
    - Database Management
    - Cloud
    - System Administration
+   - Cross Platform Applications
 3. Domains :
    - Cyber Security
    - Databases
