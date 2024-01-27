@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 # Introduction 📰
 
-Hello everyone 👋, Rishabh here with my open-source profile💻. I am currently pursuing a degree in CS (as of 2023, when this was written).\
+Hello everyone 👋, Rishabh here with my open-source profile💻. I am a Computer Science student (2021 - 2025).\
 A little info about me ⏬
 - I am originally from Kolkata📍. 
 - Passed my ICSE exam from St. Mary's Orphanage and Day School 🏫 and ISC from Central Modern School 🏫.
@@ -57,9 +57,8 @@ A little info about me ⏬
 
 # Socials 🖇️
 
-1. [LinkedIn](https://www.linkedin.com/in/rishabh-das-64a336215/)
-
-
+[<a href="https://www.linkedin.com/in/bose-aritra2003/"><img src="https://i.imgur.com/ocLF6w9.png" height="48" alt="LinkedIn"/></a>](https://www.linkedin.com/in/rishabh-das-64a336215/)
+<a href="https://twitter.com/d_mvpRishabh"><img src="https://i.imgur.com/qm4OwSV.gif" width="48" alt="Twitter"/></a>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img src="https://github.com/mvp-2003/mvp-2003/assets/113057571/c76c8b8b-c266-4518-8f2a-2f0768ebb1dc" width=5% height=5%>
