@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1> Hi there <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="48" height="48"></h1>
+
 ![](https://profile-counter.glitch.me/mvp-2003/count.svg)
 
 ### 💥Welcome to my GitHub profile README 😇
