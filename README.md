@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 [![An image of @mvp2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mvp2003)](https://holopin.io/@mvp2003)
 
+<img src="https://tenor.com/en-IN/view/stewie-griffin-family-guy-gif-3527757.gif"> 
+
 # Introduction 📰
 
 Hello everyone 👋, Rishabh here with my open-source profile💻. I am a Computer Science student (2021 - 2025).\
