@@ -61,7 +61,12 @@ A little info about me ⏬
 
 <a href="https://www.linkedin.com/in/rishabh-das-64a336215/"><img src="https://i.imgur.com/ocLF6w9.png" height="48" alt="LinkedIn"/></a>
 <a href="https://twitter.com/d_mvpRishabh"><img src="https://i.imgur.com/qm4OwSV.gif" width="48" alt="Twitter"/></a>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Profile Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mvp-2003&theme=onedark&no-bg=true&no-frame=true&column=-1&margin-w=15&margin-h=20&show_icons=true&rank_icon=github&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
+</p>
 
 <img src="https://github.com/mvp-2003/mvp-2003/assets/113057571/c76c8b8b-c266-4518-8f2a-2f0768ebb1dc" width=5% height=5%>
 <img src="https://github.com/mvp-2003/mvp-2003/assets/113057571/852e2130-29cc-4e5e-b7bc-168c0d630cfd" width=5% height=5%>
