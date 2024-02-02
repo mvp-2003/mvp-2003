@@ -33,6 +33,7 @@ A little info about me ⏬
 -  I love Music 🎵.
 -  I love Computer Games.
 
+<img src = "https://github.com/mvp-2003/mvp-2003/blob/main/Profile%20README.jpg" width="2500" height="350">
 # Techical Skills 🧑‍💻
 
 *Let's move on to Professional Skills & Knowledge.*
