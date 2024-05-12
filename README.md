@@ -46,7 +46,6 @@ A little info about me ⏬
    - SQL
    - Kotlin
 2. Skills/Technologies :
-   - Penetration Testing
    - Data Structures
    - Django
    - Database Management
