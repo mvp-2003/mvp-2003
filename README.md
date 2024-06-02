@@ -61,7 +61,6 @@ A little info about me ⏬
 # Socials 🖇️
 
 <a href="https://www.linkedin.com/in/rishabh-das-64a336215/"><img src="https://i.imgur.com/ocLF6w9.png" height="48" alt="LinkedIn"/></a>
-<a href="https://twitter.com/d_mvpRishabh"><img src="https://i.imgur.com/qm4OwSV.gif" width="48" alt="Twitter"/></a>
 
 # Profile Stats
 
