@@ -47,11 +47,12 @@ A little info about me ⏬
    - Kotlin
 2. Skills/Technologies :
    - Data Structures
-   - Django
+   - Django/Flask
    - Database Management
    - Cloud
    - System Administration
    - Cross Platform Applications
+   - Git/GitHub
 3. Domains :
    - Cyber Security
    - Databases
