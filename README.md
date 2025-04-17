@@ -28,7 +28,7 @@ Hello everyone 👋, Rishabh here with my open-source profile💻. I am a Comput
 A little info about me ⏬
 - I am originally from Kolkata📍. 
 - Passed my ICSE exam from St. Mary's Orphanage and Day School 🏫 and ISC from Central Modern School 🏫.
--  Currently(2024) I am a student at Narula Institute of Technology🎓.
+-  Currently(2025) I am a student at Narula Institute of Technology🎓 and Intern at Juspay.
 -  Major : Computer Science and Engineering.
 -  I love Music 🎵.
 -  I love Computer Games.
